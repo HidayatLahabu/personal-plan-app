@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-plan-app/static/css/main.fa3c4b69.css",
+    "main.js": "/personal-plan-app/static/js/main.8e5b2ebb.js",
+    "static/media/bootstrap-icons.woff?": "/personal-plan-app/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/personal-plan-app/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/personal-plan-app/index.html",
+    "main.fa3c4b69.css.map": "/personal-plan-app/static/css/main.fa3c4b69.css.map",
+    "main.8e5b2ebb.js.map": "/personal-plan-app/static/js/main.8e5b2ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3c4b69.css",
+    "static/js/main.8e5b2ebb.js"
+  ]
+}
